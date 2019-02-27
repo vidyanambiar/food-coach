@@ -44,15 +44,18 @@ If you want to experiment with the application or use it as a basis for building
 
 1. In your IBM Cloud console, open the Watson Assistant service instance
 
-2. Click the **Import workspace** icon in the Watson Assistant service tool. Specify the location of the workspace JSON file in your local copy of the app project:
+2. Click the **Launch tool** button in the service to launch the Watson Assistant tool. 
 
+3. Click **Skills** from the navigation menu at the top left corner of the page. Click the **Create new** button to create a new skill. Select Import skill and specify the location of the workspace JSON file in your local copy of the app project:
    `<project_root>/food-coach/training/food-coach-workspace.json`
 
-3. Select **Everything (Intents, Entities, and Dialog)** and then click **Import**. The car dashboard workspace is created.
+4. Select **Everything (Intents, Entities, and Dialog)** and then click **Import**. The workspace card is created in the Skills dashboard.
 
-4. Click the menu icon in the upper-right corner of the workspace tile, and then select **View details**.
+5. Select **Skills** from the navigation menu to return to the Skills dashboard. 
 
-5. Click the ![Copy](readme_images/copy.png) icon to copy the workspace ID to the clipboard.
+6. Click the menu icon in the upper-right corner of the workspace tile, and then select **View API details**.
+
+7. Copy the **Workspace ID**.
 
     ![Steps to get credentials](https://github.com/watson-developer-cloud/assistant-simple/raw/master/readme_images/assistant-simple.gif)
 
