@@ -32,7 +32,7 @@ If you want to experiment with the application or use it as a basis for building
     - Click **Show** to view the service credentials.
     - Copy the `apikey` value, or copy the `username` and `password` values if your service instance doesn't provide an `apikey`.
     - Copy the `url` value.
-    ![Steps to get Watson Assistant Service](https://github.com/watson-developer-cloud/assistant-simple/raw/master/readme_images/GetWatsonAssistantService.gif)
+    ![Steps to get Watson Assistant Service](https://github.com/vidyanambiar/ibm-cloud-workshop/readme_images/GetWatsonAssistantService.gif)
 1. Create an instance of the Tone Analyzer service and get your credentials:
     - Go to the [Tone Analyzer](https://console.bluemix.net/catalog/services/tone-analyzer) page in the IBM Cloud Catalog.
     - Log in to your IBM Cloud account.
